@@ -1,0 +1,4 @@
+[submodule "website_template_bootstrap_blank"]
+	url = https://github.com/crazieNephilim/crazie_starter
+[submodule "website_template_foundation_starter"]
+	url = https://github.com/crazieNephilim/crazie_starter
