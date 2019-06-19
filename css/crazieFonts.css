@@ -1,0 +1,83 @@
+/************** UBUNTU ****************/
+@font-face {font-family: 'Ubuntu'; src: url('../res/font/Ubuntu/Ubuntu-Regular.ttf');}
+@font-face {font-family: 'UbuntuBold'; src: url('../res/font/Ubuntu/Ubuntu-Bold.ttf');}
+@font-face {font-family: 'UbuntuItalic'; src: url('../res/font/Ubuntu/Ubuntu-Italic.ttf');}
+@font-face {font-family: 'UbuntuNarrow'; src: url('../res/font/Ubuntu_Condensed/UbuntuCondensed-Regular.ttf');}
+@font-face {font-family: 'UbuntuMono'; src: url('../res/font/Ubuntu_Mono/UbuntuMono-Regular.ttf');}
+
+
+/************** ROBOTO ****************/
+@font-face {font-family: 'Roboto'; src: url('../res/font/Roboto/Roboto-Regular.ttf');}
+@font-face {font-family: 'RobotoBold'; src: url('../res/font/Roboto/Roboto-Bold.ttf');}
+@font-face {font-family: 'RobotoItalic'; src: url('../res/font/Roboto/Roboto-Italic.ttf');}
+@font-face {font-family: 'RobotoNarrow'; src: url('../res/font/Roboto_Condensed/RobotoCondensed-Regular.ttf');}
+@font-face {font-family: 'RobotoMono'; src: url('../res/font/Roboto_Mono/RobotoMono-Regular.ttf');}
+@font-face {font-family: 'RobotoSlab'; src: url('../res/font/Roboto_Slab/RobotoSlab-Regular.ttf');}
+
+/************** JURA ****************/
+@font-face {font-family: 'Jura'; src: url('../res/font/Jura/Jura-Regular.ttf');}
+@font-face {font-family: 'JuraBold'; src: url('../res/font/Jura/Jura-Bold.ttf');}
+@font-face {font-family: 'JuraLight'; src: url('../res/font/Jura/Jura-Light.ttf');}
+
+/************** EXPLETUS ****************/
+@font-face {font-family: 'Expletus'; src: url('../res/font/Expletus_Sans/ExpletusSans-Regular.ttf');}
+@font-face {font-family: 'ExpletusBold'; src: url('../res/font/Expletus_Sans/ExpletusSans-Bold.ttf');}
+@font-face {font-family: 'ExpletusItalic'; src: url('../res/font/Expletus_Sans/ExpletusSans-Italic.ttf');}
+
+/************** MARVEL ****************/
+@font-face {font-family: 'Marvel'; src: url('../res/font/Marvel/Marvel-Regular.ttf');}
+@font-face {font-family: 'MarvelBold'; src: url('../res/font/Marvel/Marvel-Bold.ttf');}
+@font-face {font-family: 'MarvelItalic'; src: url('../res/font/Marvel/Marvel-Italic.ttf');}
+
+/************** REST ****************/
+@font-face {font-family: 'Aldrich'; src: url('../res/font/Aldrich/Aldrich-Regular.ttf');}
+@font-face {font-family: 'Allerta'; src: url('../res/font/Allerta_Stencil/AllertaStencil-Regular.ttf');}
+@font-face {font-family: 'Amiko'; src: url('../res/font/Amiko/Amiko-Regular.ttf');}
+@font-face {font-family: 'Audiowide'; src: url('../res/font/Audiowide/Audiowide-Regular.ttf');}
+@font-face {font-family: 'BlackOps'; src: url('../res/font/Black_Ops_One/BlackOpsOne-Regular.ttf');}
+@font-face {font-family: 'Doppio'; src: url('../res/font/Doppio_One/DoppioOne-Regular.ttf');}
+@font-face {font-family: 'Gruppo'; src: url('../res/font/Gruppo/Gruppo-Regular.ttf');}
+@font-face {font-family: 'Homenaje'; src: url('../res/font/Homenaje/Homenaje-Regular.ttf');}
+@font-face {font-family: 'Jockey'; src: url('../res/font/Jockey_One/JockeyOne-Regular.ttf');}
+@font-face {font-family: 'Megrim'; src: url('../res/font/Megrim/Megrim.ttf');}
+@font-face {font-family: 'Rationale'; src: url('../res/font/Rationale/Rationale-Regular.ttf');}
+@font-face {font-family: 'Stardos'; src: url('../res/font/Stardos_Stencil/StardosStencil-Regular.ttf');}
+@font-face {font-family: 'Strait'; src: url('../res/font/Strait/Strait-Regular.ttf');}
+@font-face {font-family: 'Syncopate'; src: url('../res/font/Syncopate/Syncopate-Regular.ttf');}
+
+/*
+<h3 style="font-family: Ubuntu;">Ubuntu -> The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: UbuntuBold;">UbuntuBold -> The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: UbuntuItallic;">UbuntuItallic -> The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: UbuntuNarrow;">UbuntuNarrow -> The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: UbuntuMono;">UbuntuMono -> The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Roboto;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: RobotoBold;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: RobotoItallic;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: RobotoNarrow;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: RobotoMono;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: RobotoSlab;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Jura;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: JuraBold;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: JuraLight;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Expletus;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: ExpletusBold;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: ExpletusItallic;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Marvel;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: MarvelBold;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: MarvelItallic;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Aldrich;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Allerta;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Amiko;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Audiowide;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: BlackOps;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Doppio;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Gruppo;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Homenaje;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Jockey;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Megrim;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Rationale;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Stardos;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Strait;">The quick brown fox jumps over the lazy dog</h3>
+<h3 style="font-family: Syncopate;">The quick brown fox jumps over the lazy dog</h3>
+*/

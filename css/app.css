@@ -1,0 +1,91 @@
+html {
+overflow: scroll;
+overflow-x: hidden;
+scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+background: #FF0000;
+}
+
+*:focus {
+    outline: none;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+article {
+  font-family: Ubuntu;
+  max-width: 1280px;
+  margin: 0px auto 0px auto;
+  padding: 15px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+
+p{
+  text-align: justify;
+  text-indent: 60px;
+}
+
+.card-section p{
+  text-indent: 0px;
+}
+
+#landingDiv {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../res/img/sw.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 720px;
+}
+
+#landingTxtOverlay {
+  padding-top: 16%;
+}
+#landingTxtOverlay h1{
+  font-size: 4em;
+  font-family: Megrim;
+}
+
+#landingTxtOverlay p{
+  text-indent: 0px;
+  font-size: 1.6em;
+  font-family: Megrim;
+}
+
+
+#landingTxtOverlay h1, #landingTxtOverlay p{
+  color: white;
+}
+
+.top-bar {
+  background-color: black;
+  position: sticky;
+  top: 0;
+}
+
+.top-bar .menu {
+  background-color: black;
+}
+
+.top-bar .menu .menu-text {
+  color: white;
+}
+
+.top-bar .menu li a {
+  color: white;
+}

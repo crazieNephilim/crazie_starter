@@ -1,2 +1,2 @@
-# crazie_starter
-My web design starter collection
+# crazie_solutions
+
